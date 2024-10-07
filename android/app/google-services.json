@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276782761060",
+    "project_id": "gk-quiz-hub-8f714",
+    "storage_bucket": "gk-quiz-hub-8f714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276782761060:android:6d63f78d935cb74ab84b71",
+        "android_client_info": {
+          "package_name": "com.app.gkquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGutIwijfKEUfG4FnGuyLEXEPMig4Hus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276782761060:android:9e445527f9fe5e61b84b71",
+        "android_client_info": {
+          "package_name": "com.application.gkquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGGutIwijfKEUfG4FnGuyLEXEPMig4Hus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
